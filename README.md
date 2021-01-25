@@ -74,8 +74,7 @@
 一些常见的硬件要求有: `经验` (要有项目经验)  `技术`(有一定技术)    `以上学历``本科`(学历要求) `编写` `代码``编程`(代码能力)  
 `能力` `负责` `团队`  `沟通``参与`则是对工作上的要求,可见团队协作能力很重要  
 技术相关的有: `数据库``设计``框架``系统``文档``构架``优化``多线程``设计模式``开源``分布式``架构设计`  
-###词云
-
+![词云](https://github.com/black-ck/job-java/blob/main/data/f50_chinese.png?raw=true)  
 
 **排在前列的英文词语**  
 
@@ -132,7 +131,7 @@
     Vue,147
     springboot,147
     
-### 词云
+   ![英文词云](https://raw.githubusercontent.com/black-ck/job-java/main/data/f50_english.png)
 
 
 
