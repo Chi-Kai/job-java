@@ -131,7 +131,7 @@
     Vue,147
     springboot,147
     
-    ![f](https://raw.githubusercontent.com/black-ck/job-java/main/data/f50_english.png)
+   ![英文词云](https://raw.githubusercontent.com/black-ck/job-java/main/data/f50_english.png)
 
 
 
